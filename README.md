@@ -1,1 +1,2 @@
 # Fitscape
+The overall goal of this project is to use different types of physiological signals to develop metrics of physical exertion. We will assess the validity and reliability of the metrics when the body is engaged in different types of physical activity and restful positions. Some scenarios include sitting in a chair, laying flat, brisk walking or jogging on a treadmill, lifting weights, standing on one foot, and stretching.  In this study we propose the use of two less common measures of physical exertion: respiration rate and galvanic skin response. 
